@@ -344,7 +344,7 @@ h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: #0e113b; /*linear-gradient(0deg, rgb(14, 17, 59) 0%, rgb(51, 54, 74) 100%);*/
+  background: linear-gradient(0deg, rgb(14, 17, 59) 0%, rgb(20, 30, 100) 100%);
   padding: 0;
 }
 
